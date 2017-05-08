@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS478Proj3A3</string>
+    <string name="switch_to_basketball">Switch to Basketball</string>
+    <string name="switch_to_baseball">Switch to Baseball</string>
+    <string name="check_permission">Request Permission</string>
+    <string name="teamname">TeamName</string>
+    <string name="title_activity_basketball_web">BasketballWebActivity</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS478Proj3A1</string>
+    <string name="basketballInfoLabel">Broadcast\nBasketball\nInformation</string>
+    <string name="baseballInfoLabel">Broadcast\nBaseball\nInformation</string>
+    <string name="permLabel">Project 3 Permission</string>
+    <string name="permDescription">send broadcasts between A2 and A3</string>
+</resources>

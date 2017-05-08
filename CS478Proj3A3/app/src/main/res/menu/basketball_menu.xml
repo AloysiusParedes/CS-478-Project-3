@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/switchToBaseball"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:showAsAction="ifRoom"
+        android:title="@string/switch_to_baseball"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/checkPermission"
+        android:checkable="false"
+        android:checked="false"
+        android:enabled="true"
+        android:showAsAction="ifRoom"
+        android:title="@string/check_permission"
+        android:visible="true"
+        app:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+</menu>

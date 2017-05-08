@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS478Proj3A2</string>
+    <string name="permLabel">Project 3 Permission</string>
+    <string name="permDescription">send broadcasts between A1, A2, and A3</string>
+</resources>
